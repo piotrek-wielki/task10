@@ -1,0 +1,23 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.input-container {
+    background-color: beige;
+    padding: 15px;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(black, 0.2);
+    margin: 10% auto 0;
+}
+
+.input-fields {
+    display:flex;
+    justify-content: space-between;
+}
+
+#button {
+    font-weight: bold;
+}
